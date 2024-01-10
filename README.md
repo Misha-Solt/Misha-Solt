@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Misha-Solt (Mikhail Usoltsev)
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning in DCI.
-- 💞️ I’m looking to collaborate on my first project.
+- 👀 I’m interested in...
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/mikhailus
 
 <!---
