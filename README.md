@@ -1,4 +1,4 @@
-👋 Hello, Tech Enthusiasts! I'm Mikhail Usoltsev - @Misha-Solt here on GitHub!
+👋 Hello, Tech Enthusiasts! I'm Michael Solt - @Misha-Solt here on GitHub!
 
 🚀 Exploring Boundlessly: My interests span across all corners of technology. Whether it's coding, AI, IoT, or beyond, I'm on a quest to discover and learn.  
 🤝 Engage with Me: I love collaboration and connection. Have an idea? Let's brainstorm together!  
